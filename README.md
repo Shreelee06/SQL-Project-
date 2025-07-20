@@ -1,4 +1,4 @@
-# 📊 SQL Practice: DVD Rental Insights
+# 📊 SQL Project: DVD Rental Insights
 
 This is a small SQL project I worked on while doing the Complete SQL Bootcamp course on Udemy. I used the DVD Rental sample database and wrote some queries to explore the data and answer practical questions related to customers, rentals, and staff performance.
 
@@ -118,5 +118,3 @@ I did this project as practice while learning SQL. It helped me understand thing
 - Writing queries to answer real questions
 
 ---
-
-If you’re new to SQL, I really recommend the Udemy course. This was a fun way to get hands-on experience.
